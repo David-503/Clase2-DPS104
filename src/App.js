@@ -34,7 +34,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Convertidor de unidades</h1>
+            <h1>Convertidor de Divisas</h1>
 
             <p>Dolar Estadounidense: {USD}</p>
             <p>Colón Costarricense: {CRC}</p>
